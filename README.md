@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I love building things, tinkering with new tools, and learning new concepts. 
+
+I'm Arturo. I love building things, tinkering with new tools, and learning new concepts. 
 
 I find the process of dissecting a problem, analyzing the different components and evaluate possible solutions (with its trade-offs) extremely stimulating, especially when tackling complex, cross-functional problems with tangible outcomes.
 
